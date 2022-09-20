@@ -75,7 +75,7 @@ expo start
 ```
 
 ## 📕 Licença
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença [MIT](https://github.com/lucasgabriel13/nlwEsports/blob/main/LICENCE).
 
 ---
 
